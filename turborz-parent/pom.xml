@@ -10,7 +10,6 @@
 	<description>朝花夕拾</description>
 	<url>http://maven.apache.org</url>
 
-
 	<properties>
 		<!-- 文件拷贝时的编码 -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -20,6 +19,7 @@
 		<jetty.version>9.3.7.v20160115</jetty.version>
 		<maven.repo>\\127.0.0.1\repo</maven.repo>
 	</properties>
+	
 	<build>
 		<pluginManagement>
 			<plugins>
@@ -83,6 +83,7 @@
 		</pluginManagement>
 
 	</build>
+	
 	<dependencyManagement>
 
 		<dependencies>
