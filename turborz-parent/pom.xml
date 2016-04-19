@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.turborz</groupId>
-	<artifactId>study</artifactId>
+	<artifactId>tparent</artifactId>
 	<version>1.0</version>
 	<packaging>pom</packaging>
-	<name>study</name>
-	<description>朝花夕拾 </description>
+	<name>turborz-parent</name>
+	<description>朝花夕拾</description>
 	<url>http://maven.apache.org</url>
 
 
